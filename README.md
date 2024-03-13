@@ -44,17 +44,8 @@ Include screenshots of both the digital and analog clocks here.
 ### Credits
 - This code was adapted from various sources and tutorials on tkinter and Python programming.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Contribution
 Contributions are welcome! Feel free to open an issue or submit a pull request to suggest improvements or fix any bugs.
 
 ### Disclaimer
 This project is for educational purposes only. It may contain bugs or errors, and the accuracy of the time displayed in the clocks depends on the system's time settings.
-
-### Author
-[Your Name](https://github.com/your_username)
-
-### Acknowledgments
-Special thanks to [OpenAI](https://openai.com) for providing the language model used to generate this README template.
